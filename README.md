@@ -9,6 +9,7 @@ To use the R script the following conditions have to be met:
 
 ###Script mechanics###
 _Script does not need any additional packages to be loaded_
+
 Script operates in following steps:
 1. loads all relevant source tables
 2. identifies relevant mean and standard deviation source variables
