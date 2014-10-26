@@ -9,8 +9,9 @@ To use the R script the following conditions have to be met:
 
 _Script does not need any additional packages to be loaded_
 
-##Clean dataset variables##
+###Clean dataset variables###
 Dataset contains the selection of mean and standard deviation variables from the original UCI HAR Dataset. These variables were aggregated for every activity and tested individual and mean was calculated. Dataset contains following variables:
+
 1. activity_name - description of measured activity
 2. activity - integer code of measured activity
 3. individual - ID of tested individual
